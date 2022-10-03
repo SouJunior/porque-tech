@@ -1,0 +1,6 @@
+# Sobre
+Sou economista de formação e me encontrei na área de tecnologia. Atualmente trabalho com frontend, principalmente com Javascript e utilizando o framework React, mas com conhecimentos em diversas ferramentas como Redux, Saga, CSS in JS, theming e estou aprimorando os conhecimentos em arquitetura de frontend. Atuei como líder de frontend em projetos utilizando metodologias ágeis e criei um minicurso, como voluntário, para ensinar os fundamentos de computação e linguagens de programação para os alunos de economia.
+
+Como economista, consigo entender sobre a lógica de negócio de uma forma mais holística e completa, pois entendo como os mercados funcionam e como o cenário econômico nacional impacta os negócios. Como desenvolvedor, posso ajudar no levantamento de requisitos com uma visão horizontal, entendendo as necessidades do cliente, bem como suas soluções.
+
+Atualmente sou bolsista do CTD (Certified Tech Developer) da Digital House, com patrocínio do Mercado Livre e Globant. O curso tem formação de 2 anos em fullstack

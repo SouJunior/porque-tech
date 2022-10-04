@@ -1,7 +1,11 @@
-<h2>Hist
+<h2>História Profissoinal</h2>
   
   Já há alguns anos que venho sentindo incômodo com minha antiga área de atuação, no terceiro setor, buscando um caminho 
   diferente para trilhar. Em reuniões setoriais e grupos, geralmente sempre atuei nas soluções tecnológicas do coletivo.
+  
+  Formado na PUC-SP em Ciências Sociais, atuei por uma década no terceiro setor. Um local desafiador e pouco valorizado,
+  porém com ótimos desafios para o desenvolvimento pessoal e profissional. Nesse período, atuei bastante na rede de serviços
+  sendo ativo no fortalecimento da coletividade.
   
   <h4>Criei um site com soluções para o terceiro setor</h4>
   
@@ -33,4 +37,3 @@
   estudo de programação. 
   
   Juarez Martins
-  

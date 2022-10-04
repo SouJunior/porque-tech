@@ -1,4 +1,4 @@
-<h2><strong>História Profissional</strong><h2>
+<h2>Hist
   
   Já há alguns anos que venho sentindo incômodo com minha antiga área de atuação, no terceiro setor, buscando um caminho 
   diferente para trilhar. Em reuniões setoriais e grupos, geralmente sempre atuei nas soluções tecnológicas do coletivo.

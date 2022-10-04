@@ -10,7 +10,7 @@
   <h4>Criei um site com soluções para o terceiro setor</h4>
   
   Durante a pandemia, o maior site de divulgação de vagas de emprego no terceiro setor, fechou seu segmento sem dar
-  satisfações aos usuários. Percebi essa lacuna e criei da forma que pude meu próprio site, aproveitando a capitaridade
+  satisfações aos usuários. Percebi essa lacuna e criei da forma que pude meu próprio site, aproveitando a capilaridade
   com contatos de entidades sociais em toda São Paulo, divulguei meu serviço que foi criado de forma voluntária.
   
   Houve uma imensa aderência e confiança por parte dos contratantes, hoje contamos com média de 2.5k acessos diários,
